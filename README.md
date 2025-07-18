@@ -95,4 +95,6 @@ Always prioritize security when accessing any online platform. Use verified **Ab
 
 
 
-Update: url is functioning
+
+
+Update:  Friday 18 July 2025 Link is now responsive
